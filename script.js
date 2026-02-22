@@ -1,3 +1,4 @@
+//Add “×” Close Buttons to Each Task
 var myNodelist = document.getElementsByTagName("LI");
 var i;
 for (i = 0; i < myNodelist.length; i++) {
